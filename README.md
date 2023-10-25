@@ -26,42 +26,7 @@
   ![Netlify](https://img.shields.io/badge/Netlify-00C7B7.svg?style=for-the-badge&logo=Netlify&logoColor=white)
 </div>
   
-<div><h2><strong>Developers of this repository 🔻</strong></h2></div>
 
-<table align="center">
-<tr align="center">
-<td>
-
-**ΛDIƬYΛ VΣЯMΛ**
-
-<p align="center">
-<img src = "https://raw.githubusercontent.com/ADITYAVOFFICIAL/ADITYAVOFFICIAL/main/pics/adityav.png"  height="120" alt="Aditya Verma">
-</p>
-<p align="center">
-<a href = "https://github.com/ADITYAVOFFICIAL"><img src = "https://img.icons8.com/3d-fluency/94/github.png" width="36" height = "36"/></a>
-<a href = "https://www.linkedin.com/in/aditya-verma-real/">
-<img src = "https://img.icons8.com/color/48/linkedin.png" width="36" height="36"/>
-</a>
-<a href = "https://medium.com/@adityaver">
-<img src = "https://img.icons8.com/stickers/100/medium-logo.png" width="36" height="36"/>
-</a>
-</p>
-</td>
-
-<td>
-𝗦𝗮𝗵𝗶𝗹 𝗔𝗱𝗵𝗶𝗸𝗮𝗿𝗶
-
-<p align="center">
-<img src = "https://avatars.githubusercontent.com/u/116698850?v=4"  height="120" alt="Aryan Raj">
-</p>
-<p align="center">
-<a href = "https://github.com/Sahilopl"><img src = "https://img.icons8.com/3d-fluency/94/github.png" width="36" height = "36"/></a>
-<a href = "https://www.linkedin.com/in/sahil-adhikari-57b445250/">
-<img src = "https://img.icons8.com/color/48/linkedin.png" width="36" height="36"/>
-</a>
-</p>
-</td>
-</table>
 
  ## Installation
  <div>
