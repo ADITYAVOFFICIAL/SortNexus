@@ -28,6 +28,80 @@
 /*===========================
 0.0 *** Common CSS START ***
 =============================*/
+.flex-container {
+    margin-top: 20px;
+    display: flex;
+    flex-wrap: nowrap;
+    width: 100%;
+    height: 600px;
+    justify-content: center;
+    transition: 2s all ease;
+}
+.flex-item {
+    background: #e43f5a;
+    border: 1pt solid black;
+    width: 10px;
+    transition: 0.1s all ease;
+}
+
+
+#input-panel {
+    margin-top: 50px;
+}
+
+.center {
+    display: flex;
+    justify-content: center;
+    margin: auto;
+}
+
+#sorting {
+    margin-bottom: 50px;
+    transform: rotate(180deg) scaleX(-1); 
+}
+
+.range-input {
+    box-sizing: border-box;
+    top: 50%;
+    left: 50%;  
+    transform: translate(-50%, -50%);
+    align-items: center;
+    border-radius: 10px;
+    line-height: 50px;
+    display: flex;
+    vertical-align: middle;
+    height: 50px;
+}
+.range-input input {
+    -webkit-appearance: none;
+    width: 200px;
+    height: 2px;
+    background-color: #e43f5a;
+
+    position: absolute;
+    top: 50%;
+}
+.range-input input::-webkit-slider-thumb {
+    -webkit-appearance: none;
+    width: 20px;
+    height: 20px;
+    background-color: #eee;
+    border: 2px solid #1f4068;
+    border-radius: 50%;
+    outline: none;
+}
+.range-input input::-webkit-slider-thumb:hover {
+    background-color: #1f4068;
+}
+
+.range-input .label{
+    color: white;
+    font-weight:600;
+    display: flex; 
+    height: 35px; 
+    line-height: 35px; 
+    margin: auto;
+}
 * {
     margin: 0;
     padding: 0;
@@ -1635,11 +1709,22 @@ textarea::placeholder {
 /*===========================
 12.0 *** SUBSCRIBE AREA START ***
 =============================*/
+
 #subscribe {
     padding: 30px 0;
     margin-bottom: -70px;
 }
-
+.subscripe-btn a {
+    background-color: #333; /* Initial background color */
+    color: #6cc644; /* Initial text color */
+    padding: 10px 20px;
+    text-decoration: none;
+    transition: background-color 0.3s, color 0.3s; /* Transition for smooth effect */
+}
+.subscripe-btn a:hover {
+    background-color: #333; /* Background color on hover */
+    color: #6cc644; /* Text color on hover */
+}
 .sub-main {
     padding: 30px 0;
     background: #ff7657;
