@@ -1,4 +1,4 @@
-## DermaScan: Advanced Skin Lesion Classifier with Dermatology Chatbot
+## DSA Sorting Visualiser
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badges)
 ![Status](https://img.shields.io/website-up-down-green-red/https/derma-scan.netlify.app.svg)
 ![Forks](https://img.shields.io/github/forks/ADITYAVOFFICIAL/Sorting_Visual.svg)
@@ -8,15 +8,12 @@
 ![Views](https://views.whatilearened.today/views/github/ADITYAVOFFICIAL/Sorting_Visual.svg)
   <p>
     <ul>
-      <li>Welcome to the DermaScan web app GitHub repository, your gateway to a cutting-edge skin lesion and disease classifier.</li>
-      <li>Leveraging Harvard's Ham10000 dataset and the robust MobileNet V2 model, this system boasts an impressive accuracy rate of 89%.</li>
-      <li>But that's not all – we've integrated "Derma" a dermatology chatbot powered by GPT-3.5 Turbo with internet access, to provide insightful information and guidance.</li>
-      <li>Moreover, our app also connects you with the nearest doctors through an intuitive API, and offers suggestions for relevant medical articles. Explore the future of dermatological diagnostics and treatment right here!</li>
+      <li>Welcome</li>
     </ul>
 
 
  ## Build Status
- [![Netlify Status](https://api.netlify.com/api/v1/badges/a1f776b3-3424-4a08-9f85-b212b66cfbe8/deploy-status)](https://app.netlify.com/sites/derma-scan/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/589ddab2-d6fc-4ab2-b725-ef8f343826c1/deploy-status)](https://app.netlify.com/sites/dsasortingv/deploys)
 
  ## Current Tech Stack 🔻
 <div style="display: inline_block"><br>
@@ -68,11 +65,7 @@
 
  ## Installation
  <div>
- <p>Before running the Jupyter Notebook for the model, make sure to install the dependencies listed in the 'requirements.txt' file.</p>
-   
-   ```
-   pip install -r requirements.txt
-   ```
+
 
 <p>Running website on Local Host</p>
 
