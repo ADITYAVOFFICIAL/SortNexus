@@ -66,28 +66,34 @@
     left: 50%;  
     transform: translate(-50%, -50%);
     align-items: center;
-    border-radius: 10px;
+    border-radius: 1px;
     line-height: 50px;
     display: flex;
     vertical-align: middle;
     height: 50px;
 }
+.flex-item {
+    background: #ff7657;
+    border: 0.5pt solid black;
+    width: 10px;
+    transition: 0.1s all ease;
+}
 .range-input input {
     -webkit-appearance: none;
     width: 200px;
-    height: 2px;
-    background-color: #e43f5a;
-
+    height: 21px;
+    background-color: #ff7657;
     position: absolute;
     top: 50%;
+    border-radius: 5px;
 }
 .range-input input::-webkit-slider-thumb {
     -webkit-appearance: none;
     width: 20px;
     height: 20px;
     background-color: #eee;
-    border: 2px solid #1f4068;
-    border-radius: 50%;
+    border: 15px solid #555;
+    border-radius: 20%;
     outline: none;
 }
 .range-input input::-webkit-slider-thumb:hover {
@@ -102,6 +108,7 @@
     line-height: 35px; 
     margin: auto;
 }
+
 * {
     margin: 0;
     padding: 0;
