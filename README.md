@@ -7,9 +7,10 @@
 ![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)
 ![Views](https://views.whatilearened.today/views/github/ADITYAVOFFICIAL/Sorting_Visual.svg)
   <p>
-    <ul>
-      <li>Welcome</li>
-    </ul>
+    
+- SortNexus website is designed for visualizing data structure and algorithm sorting, offering user customization for array size and sorting speed.
+- Features a responsive and high-performance UI.
+- Developed using a stack of technologies including HTML, CSS, JavaScript, and Bootstrap to ensure a robust and user-friendly experience.
 
 
  ## Build Status
