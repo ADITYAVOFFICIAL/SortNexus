@@ -18,8 +18,8 @@
 
 ## Preview
 
-![Web_app](images/pre.png)<br/><br/><br/>
-![Web_app](images/pre2.png)<br/><br/><br/>
+![Web_app](images/pre.png)<br/>
+![Web_app](images/pre2.png)<br/>
 ![Web_app](images/pre3.png)<br/>
 
  ## Current Tech Stack 🔻
