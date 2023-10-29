@@ -15,6 +15,13 @@
 
  ## Build Status
 [![Netlify Status](https://api.netlify.com/api/v1/badges/589ddab2-d6fc-4ab2-b725-ef8f343826c1/deploy-status)](https://app.netlify.com/sites/sortnexus/deploys)
+
+## Preview
+
+![Web_app](images/pre.png)<br/><br/><br/>
+![Web_app](images/pre2.png)<br/><br/><br/>
+![Web_app](images/pre3.png)<br/>
+
  ## Current Tech Stack 🔻
 <div style="display: inline_block"><br>
   
