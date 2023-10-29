@@ -42,6 +42,7 @@
     border: 1pt solid black;
     width: 10px;
     transition: 0.1s all ease;
+    border-radius: 3.5px;
 }
 
 
@@ -63,7 +64,7 @@
 .range-input {
     box-sizing: border-box;
     top: 50%;
-    left: 50%;  
+    left: 40%;  
     transform: translate(-50%, -50%);
     align-items: center;
     border-radius: 1px;
@@ -1168,7 +1169,7 @@ over-btn a i {
     background: #151515;
     -webkit-box-shadow: 0 31px 35px rgba(0, 0, 0, .1);
     box-shadow: 0 31px 35px rgba(0, 0, 0, .1);
-    border-radius: 10px;
+    border-radius: 18px;
     padding: 40px 30px;
     position: relative;
 }
@@ -1209,6 +1210,7 @@ over-btn a i {
     color: #fff;
     font-size: 18px;
     font-family: pb;
+    border-radius: 12px;
 }
 
 .product-slider {
